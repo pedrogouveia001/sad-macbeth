@@ -1,14 +1,14 @@
-# Nexus MACBETH — Elicitação Qualitativa e Programação Linear
+# SAD MACBETH — Elicitação Qualitativa e Programação Linear
 
-Este repositório é o módulo independente do ecossistema **NEXUS MCDM**, configurado para operar exclusivamente com o método **MACBETH**.
+Este repositório é o módulo independente do ecossistema **SAD MCDM**, configurado para operar exclusivamente com o método **MACBETH**.
 
 ---
 
 ## 🎨 Identidade Visual e Branding
-- **Nome Oficial:** Nexus MACBETH
+- **Nome Oficial:** SAD MACBETH
 - **Cores Oficiais:** Âmbar (`#F59E0B`) e Azul Escuro (`#1E3A8A`)
 - **Conceito Visual:** Blocos de intervalos de atratividade qualitativa representando a escala ordinal-cardinal.
-- **Copyright:** Direitos Reservados © 2026 NEXUS-MCDM. Todos os direitos reservados.
+- **Copyright:** Direitos Reservados © 2026 SAD-MCDM. Todos os direitos reservados.
 
 ---
 
